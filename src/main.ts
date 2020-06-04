@@ -1,9 +1,9 @@
 import {app, BrowserWindow, Menu, dialog} from "electron";
 import * as path from "path";
 import ParseXML from "./core/ParseXML";
-import {head} from 'lodash';
 import OpenDialogReturnValue = Electron.OpenDialogReturnValue;
-import GenerateHTML from "./core/GenerateHTML";
+// import * as fs from 'fs';
+import WordFileGenerator from "./core/WordFileGenerator";
 
 let mainWindow: Electron.BrowserWindow;
 
@@ -81,6 +81,13 @@ const showOpen = (): void => {
                         mainWindow.loadURL("data:text/html;charset=utf-8,"
                             + encodeURIComponent(html));
 
+                        // fs.writeFileSync(`${result.filePaths[0]}.html`, html);
+                        try {
+                            const wordFileGenerator = new WordFileGenerator(html, `${result.filePaths[0]}.docx`);
+                            wordFileGenerator.generateDocumentAndSaveFile();
+                        } catch (e) {
+                            console.error(e);
+                        }
                     })
                     .catch(promiseError => {
                         console.error(promiseError)

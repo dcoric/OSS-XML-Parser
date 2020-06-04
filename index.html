@@ -2,13 +2,49 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Hello World!</title>
+    <title>XML Converter</title>
   </head>
+  <style>
+    body {
+      background: #efefef;
+      color: #2a2a2a;
+      font-family: Helvetica, Arial;
+    }
+    .container {
+      text-align: left;
+    }
+    .container .center {
+      text-align: center;
+    }
+    code {
+      background-color: #e5e9ec;
+      border-radius: 5px;
+      padding: 0 4px;
+    }
+  </style>
   <body>
-    <h1>Hello World!</h1>
-    We are using Node.js <span id="node-version"></span>,
-    Chromium <span id="chrome-version"></span>,
-    and Electron <span id="electron-version"></span>.
+  <div class="container">
+    <div class="center">
+      <h1>XML converter</h1>
+    </div>
+    <h2>Supported XML formats:</h2>
+    <p>
+      <ul>
+        <li>oss review toolkit BOM file</li>
+        <li>Sonatype OSS index scan</li>
+      </ul>
+    </p>
+    <h2>Importing XML File</h2>
+    <p>Select <b>XML</b> from File Menu, and <b>Import XML</b></p>
+    <p>File will be automatically parsed and the results will be displayed on the screen</p>
+    <h2>Generate Word File</h2>
+    <p>Word file output is automatically generated in same folder XML is found and the file name will match XML file name</p>
+    <h3>Example:</h3>
+    <p>XML file location: <code>C:\Users\example\Desktop\ATU bom.xml</code></p>
+    <p>Output Word file: <code>C:\Users\example\Desktop\ATU bom.xml.docx</code></p>
+    <h2>Possible Errors</h2>
+    <p>If the XML format is not supported, the user will see the message on the screen.</p>
+  </div>
 
     <!-- You can also require other files to run in this process -->
     <script src="./dist/renderer.js"></script>

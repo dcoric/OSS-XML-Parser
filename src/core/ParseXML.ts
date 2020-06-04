@@ -1,7 +1,6 @@
 import {Parser} from 'xml2js';
-import {head} from 'lodash';
-import {Component, Components, XMLFile} from '../model/Component';
-import {detectBufferEncoding} from "tslint/lib/utils";
+import {Components, XMLFile} from '../model/Component';
+import {detectBufferEncoding} from 'tslint/lib/utils';
 import * as fs from 'fs';
 import GenerateHTML from "./GenerateHTML";
 
@@ -25,15 +24,18 @@ class ParseXML {
         const promise: Promise<string> = new Promise((resolve, reject) => {
             fs.readFile(filePath, (err: NodeJS.ErrnoException | null, data: Buffer) => {
                 if (err) throw err;
-                this.parser.parseStringPromise(data.toString(detectBufferEncoding(data)))
+                this.parser.parseStringPromise(
+                    data.toString(
+                        'utf-8'
+                    )
+                )
                     .then((parsingResult: XMLFile) => {
                         let htmlGenerator;
                         if (parsingResult.bom) {
                             console.log('Parsing as bom file');
                             const componentsArray: Components[] = parsingResult.bom.components;
                             htmlGenerator = new GenerateHTML({components: componentsArray});
-                        }
-                        if (parsingResult.componentReportExport) {
+                        } else if (parsingResult.componentReportExport) {
                             console.log('Parsing as componentReportExport file');
                             const componentReportExport = parsingResult.componentReportExport;
                             const reports = componentReportExport.reports[0].entry;
@@ -41,9 +43,11 @@ class ParseXML {
                             const excludedVulnerabilities = componentReportExport.excludedVulnerabilities[0].entry;
                             const excludedCoordinates = componentReportExport.excludedCoordinates[0].entry;
                             htmlGenerator = new GenerateHTML(
-                                {reportEntries: reports,
-                                    vulnerableEntries, excludedVulnerabilities, excludedCoordinates}
-                                );
+                                {
+                                    reportEntries: reports,
+                                    vulnerableEntries, excludedVulnerabilities, excludedCoordinates
+                                }
+                            );
                         } else if (parsingResult.testsuite) {
                             console.log('Parsing as TestSuite');
                             const numberOfTests = parsingResult.testsuite.$.tests;
@@ -54,7 +58,7 @@ class ParseXML {
                                 {numberOfTests, numberOfFailures, timestamp, testCaseArray}
                             );
                         } else {
-                            console.error('XML Format', parsingResult.testsuite.testcase);
+                            console.log('XML Format is not supported', parsingResult);
                             reject('XML Format is not supported');
                         }
                         resolve(htmlGenerator.getHTML());

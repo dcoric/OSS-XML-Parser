@@ -1,12 +1,15 @@
 {
-  "name": "XML-converter",
+  "name": "XML_converter",
   "version": "1.0.0",
   "description": "Licenses XML Import & convert for convenient presentation",
+  "main": "src/main.ts",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
     "lint": "tslint -c tslint.json -p tsconfig.json",
-    "start": "npm run build && electron ./dist/main.js"
+    "start": "npm run build && electron ./dist/main.js",
+    "clean": "rimraf dist/*",
+    "build-win": "yarn build && yarn clean && yarn electron-builder build -w"
   },
   "repository": "https://github.com/electron/electron-quick-start-typescript",
   "keywords": [
@@ -25,7 +28,9 @@
     "@types/node": "12.12.6",
     "electron": "9.0.2",
     "tslint": "6.1.2",
-    "typescript": "3.9.5"
+    "typescript": "3.9.5",
+    "electron-builder": "22.7.0",
+    "rimraf": "3.0.2"
   },
   "dependencies": {
     "html-docx-js-typescript": "0.1.5",

@@ -1,0 +1,27 @@
+{
+  "publish": [{
+    "provider": "generic",
+    "url": "https://citadel.red"
+  }],
+  "appId": "XML-Converter.Desktop",
+  "artifactName": "${name}-${version}-${os}-${arch}.${ext}",
+  "win": {
+    "target": [{
+      "arch": [
+        "x64"
+      ],
+      "target": "nsis"
+    }]
+  },
+  "nsis": {
+    "oneClick": false,
+    "perMachine": false,
+    "allowElevation": true,
+    "allowToChangeInstallationDirectory": true,
+    "runAfterFinish": false,
+    "artifactName": "XML_Converter_Setup_${version}.${ext}"
+  },
+  "extraFiles": [
+    "scripts"
+  ]
+}

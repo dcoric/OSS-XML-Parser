@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<componentReportExport>
+    <reports>
+        <entry>
+            <key>org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.16:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@9.0.16</coordinates>
+                <description>Core Tomcat implementation</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.tomcat.embed/tomcat-embed-el@9.0.16</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.objenesis:objenesis:jar:2.6:test</key>
+            <value>
+                <coordinates>pkg:maven/org.objenesis/objenesis@2.6</coordinates>
+                <description>A library for instantiating Java objects</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.objenesis/objenesis@2.6</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.springfox:springfox-core:jar:2.9.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.springfox/springfox-core@2.9.2</coordinates>
+                <description>JSON API documentation for spring based applications</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.springfox/springfox-core@2.9.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-test:jar:2.1.3.RELEASE:test</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-test@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Test Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-test@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.httpcomponents:httpcore:jar:4.4.11:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.httpcomponents/httpcore@4.4.11</coordinates>
+                <description>HttpComponents Core (blocking I/O)</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.httpcomponents/httpcore@4.4.11</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-jdbc@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot JDBC Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-jdbc@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>junit:junit:jar:4.12:test</key>
+            <value>
+                <coordinates>pkg:maven/junit/junit@4.12</coordinates>
+                <description>JUnit is a regression testing framework written by Erich Gamma and Kent Beck.
+        It is used by the developer who implements unit tests in Java.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/junit/junit@4.12</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-web:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-web@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Web Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-web@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-handler:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-handler@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-handler@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.oracle.database.jdbc:ojdbc6:jar:11.2.0.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.oracle.database.jdbc/ojdbc6@11.2.0.4</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.oracle.database.jdbc/ojdbc6@11.2.0.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>net.minidev:json-smart:jar:2.3:test</key>
+            <value>
+                <coordinates>pkg:maven/net.minidev/json-smart@2.3</coordinates>
+                <description>JSON (JavaScript Object Notation) is a lightweight data-interchange format.
+    It is easy for humans to read and write. It is easy for machines to parse and generate.
+    It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition
+    - December 1999. JSON is a text format that is completely language independent but uses
+    conventions that are familiar to programmers of the C-family of languages, including C, C++, C#,
+    Java, JavaScript, Perl, Python, and many others.
+    These properties make JSON an ideal data-interchange language.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/net.minidev/json-smart@2.3</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.fasterxml.jackson.core:jackson-core:jar:2.9.8:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.8</coordinates>
+                <description>Core Jackson abstractions, basic JSON streaming API implementation</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.8</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>javax.xml.bind:jaxb-api:jar:2.3.1:compile</key>
+            <value>
+                <coordinates>pkg:maven/javax.xml.bind/jaxb-api@2.3.1</coordinates>
+                <description>JAXB (JSR 222) API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/javax.xml.bind/jaxb-api@2.3.1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.plugin/spring-plugin-core@1.2.0.RELEASE</coordinates>
+                <description>Core plugin infrastructure</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.plugin/spring-plugin-core@1.2.0.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>javax.transaction:javax.transaction-api:jar:1.3:compile</key>
+            <value>
+                <coordinates>pkg:maven/javax.transaction/javax.transaction-api@1.3</coordinates>
+                <description>Project GlassFish Java Transaction API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/javax.transaction/javax.transaction-api@1.3</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.amqp:spring-rabbit:jar:2.1.4.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.amqp/spring-rabbit@2.1.4.RELEASE</coordinates>
+                <description>Spring AMQP - support for Spring programming model with AMQP, especially but not limited to RabbitMQ http://www.springsource.org/spring-amqp</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.amqp/spring-rabbit@2.1.4.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.jsonwebtoken:jjwt-api:jar:0.10.7:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.jsonwebtoken/jjwt-api@0.10.7</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.jsonwebtoken/jjwt-api@0.10.7</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.hibernate.validator:hibernate-validator:jar:6.0.14.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.hibernate.validator/hibernate-validator@6.0.14.Final</coordinates>
+                <description>Hibernate's Bean Validation (JSR-380) reference implementation.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.hibernate.validator/hibernate-validator@6.0.14.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>javax.annotation:javax.annotation-api:jar:1.3.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/javax.annotation/javax.annotation-api@1.3.2</coordinates>
+                <description>Common Annotations for the JavaTM Platform API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/javax.annotation/javax.annotation-api@1.3.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.bosch.im:im-api2-common:jar:1.27:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.bosch.im/im-api2-common@1.27</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.bosch.im/im-api2-common@1.27</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>antlr:antlr:jar:2.7.7:compile</key>
+            <value>
+                <coordinates>pkg:maven/antlr/antlr@2.7.7</coordinates>
+                <description>ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/antlr/antlr@2.7.7</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.bouncycastle:bcpkix-jdk15on:jar:1.60:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.bouncycastle/bcpkix-jdk15on@1.60</coordinates>
+                <description>The Bouncy Castle Java APIs for CMS, PKCS, EAC, TSP, CMP, CRMF, OCSP, and certificate generation. This jar contains APIs for JDK 1.5 to JDK 1.7. The APIs can be used in conjunction with a JCE/JCA provider such as the one provided with the Bouncy Castle Cryptography APIs.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.bouncycastle/bcpkix-jdk15on@1.60</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-amqp:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-amqp@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot AMQP Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-amqp@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.skyscreamer:jsonassert:jar:1.5.0:test</key>
+            <value>
+                <coordinates>pkg:maven/org.skyscreamer/jsonassert@1.5.0</coordinates>
+                <description>A library to develop RESTful but flexible APIs</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.skyscreamer/jsonassert@1.5.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.security:spring-security-web:jar:5.1.4.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.security/spring-security-web@5.1.4.RELEASE</coordinates>
+                <description>spring-security-acl</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.security/spring-security-web@5.1.4.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-jcl:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-jcl@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-jcl@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.oracle.database.security:osdt_core:jar:11.2.0.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.oracle.database.security/osdt_core@11.2.0.4</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.oracle.database.security/osdt_core@11.2.0.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>javax.activation:javax.activation-api:jar:1.2.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/javax.activation/javax.activation-api@1.2.0</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/javax.activation/javax.activation-api@1.2.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.sun.activation:javax.activation:jar:1.2.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.sun.activation/javax.activation@1.2.0</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.sun.activation/javax.activation@1.2.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.logging.log4j:log4j-api:jar:2.11.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.logging.log4j/log4j-api@2.11.2</coordinates>
+                <description>The Log4J API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.logging.log4j/log4j-api@2.11.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.plugin/spring-plugin-metadata@1.2.0.RELEASE</coordinates>
+                <description>Extension package for metadata based plugins</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.plugin/spring-plugin-metadata@1.2.0.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-orm:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-orm@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-orm@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.httpcomponents:httpclient:jar:4.5.7:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.httpcomponents/httpclient@4.5.7</coordinates>
+                <description>HttpComponents Client (base module)</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.httpcomponents/httpclient@4.5.7</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.mockito:mockito-core:jar:2.23.4:test</key>
+            <value>
+                <coordinates>pkg:maven/org.mockito/mockito-core@2.23.4</coordinates>
+                <description>Mock objects library for java</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.mockito/mockito-core@2.23.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.cloud:spring-cloud-context:jar:2.1.1.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.cloud/spring-cloud-context@2.1.1.RELEASE</coordinates>
+                <description>Spring Cloud Context</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.cloud/spring-cloud-context@2.1.1.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.cloud:spring-cloud-commons:jar:2.1.1.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.cloud/spring-cloud-commons@2.1.1.RELEASE</coordinates>
+                <description>Spring Cloud Commons</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.cloud/spring-cloud-commons@2.1.1.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.hamcrest:hamcrest-library:jar:1.3:test</key>
+            <value>
+                <coordinates>pkg:maven/org.hamcrest/hamcrest-library@1.3</coordinates>
+                <description>Hamcrest library of matcher implementations.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.hamcrest/hamcrest-library@1.3</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.hibernate:hibernate-java8:jar:5.3.7.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.hibernate/hibernate-java8@5.3.7.Final</coordinates>
+                <description>Mainly support for Java8 Date/Time (JSR 310)</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.hibernate/hibernate-java8@5.3.7.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.jvnet.mimepull:mimepull:jar:1.9.11:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.jvnet.mimepull/mimepull@1.9.11</coordinates>
+                <description>Provides a streaming API to access attachments parts in a MIME message.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.jvnet.mimepull/mimepull@1.9.11</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.checkerframework:checker-qual:jar:2.5.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.checkerframework/checker-qual@2.5.2</coordinates>
+                <description>Checker Qual is the set of annotations (qualifiers) and supporting classes
+        used by the Checker Framework to type check Java source code.  Please
+        see artifact:
+        org.checkerframework:checker</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.checkerframework/checker-qual@2.5.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.security:spring-security-rsa:jar:1.0.7.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.security/spring-security-rsa@1.0.7.RELEASE</coordinates>
+                <description>Spring Security RSA is a small utility library for RSA ciphers.
+	It belongs to the family of Spring Security crypto libraries that handle encoding and decoding text as
+	a general, useful thing to be able to do.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.security/spring-security-rsa@1.0.7.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.jcraft:jsch:jar:0.1.54:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.jcraft/jsch@0.1.54</coordinates>
+                <description>JSch is a pure Java implementation of SSH2</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.jcraft/jsch@0.1.54</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-codec-dns:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-codec-dns@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-codec-dns@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.webjars:swagger-ui:jar:3.24.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.webjars/swagger-ui@3.24.0</coordinates>
+                <description>WebJar for Swagger UI</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.webjars/swagger-ui@3.24.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-codec-http:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-codec-http@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-codec-http@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.jsonwebtoken:jjwt-impl:jar:0.10.7:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.jsonwebtoken/jjwt-impl@0.10.7</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.jsonwebtoken/jjwt-impl@0.10.7</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.8:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.9.8</coordinates>
+                <description>Add-on module for Jackson (http://jackson.codehaus.org) to support
+JDK 8 data types.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.9.8</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.springfox:springfox-schema:jar:2.9.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.springfox/springfox-schema@2.9.2</coordinates>
+                <description>JSON API documentation for spring based applications</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.springfox/springfox-schema@2.9.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.oracle.database.ha:simplefan:jar:11.2.0.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.oracle.database.ha/simplefan@11.2.0.4</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.oracle.database.ha/simplefan@11.2.0.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.fasterxml:classmate:jar:1.4.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.fasterxml/classmate@1.4.0</coordinates>
+                <description>Library for introspecting types with full generic information
+including resolving of field and method types.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.fasterxml/classmate@1.4.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.oracle.database.security:osdt_cert:jar:11.2.0.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.oracle.database.security/osdt_cert@11.2.0.4</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.oracle.database.security/osdt_cert@11.2.0.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.springfox:springfox-swagger-common:jar:2.9.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.springfox/springfox-swagger-common@2.9.2</coordinates>
+                <description>JSON API documentation for spring based applications</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.springfox/springfox-swagger-common@2.9.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.retry:spring-retry:jar:1.2.4.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.retry/spring-retry@1.2.4.RELEASE</coordinates>
+                <description>Spring Retry provides an abstraction around retrying failed operations, with an emphasis on declarative control of the process and policy-based bahaviour that is easy to extend and customize.  For instance, you can configure a plain POJO operation to retry if it fails, based on the type of exception, and with a fixed or exponential backoff.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.retry/spring-retry@1.2.4.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.google.code.findbugs:jsr305:jar:3.0.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.google.code.findbugs/jsr305@3.0.2</coordinates>
+                <description>JSR305 Annotations for Findbugs</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.google.code.findbugs/jsr305@3.0.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.google.guava:listenablefuture:jar:1.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.google.guava/listenablefuture@1.0</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.google.guava/listenablefuture@1.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-security:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-security@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Security Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-security@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-tomcat@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Tomcat Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-tomcat@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.typesafe.netty:netty-reactive-streams:jar:2.0.3:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.typesafe.netty/netty-reactive-streams@2.0.3</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.typesafe.netty/netty-reactive-streams@2.0.3</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.oracle.database.ha:ons:jar:11.2.0.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.oracle.database.ha/ons@11.2.0.4</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.oracle.database.ha/ons@11.2.0.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.google.guava:guava:jar:27.0.1-jre:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.google.guava/guava@27.0.1-jre</coordinates>
+                <description>Guava is a suite of core and expanded libraries that include 
+    utility classes, google's collections, io classes, and much 
+    much more.
+    
+    This project is a complete packaging of all the Guava libraries
+    into a single jar.  Individual portions of Guava can be used
+    by downloading the appropriate module and its dependencies.
+    
+    Guava (complete) has only one code dependency - javax.annotation,
+    per the JSR-305 spec.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.google.guava/guava@27.0.1-jre</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-json:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-json@2.1.3.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-json@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>javax.xml.soap:javax.xml.soap-api:jar:1.4.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/javax.xml.soap/javax.xml.soap-api@1.4.0</coordinates>
+                <description>SAAJ API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/javax.xml.soap/javax.xml.soap-api@1.4.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-test:jar:5.1.5.RELEASE:test</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-test@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-test@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>net.minidev:accessors-smart:jar:1.2:test</key>
+            <value>
+                <coordinates>pkg:maven/net.minidev/accessors-smart@1.2</coordinates>
+                <description>Java reflect give poor performance on getter setter an constructor calls,
+accessors-smart use ASM to speed up those calls.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/net.minidev/accessors-smart@1.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.slf4j:jul-to-slf4j:jar:1.7.25:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.slf4j/jul-to-slf4j@1.7.25</coordinates>
+                <description>JUL to SLF4J bridge</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.slf4j/jul-to-slf4j@1.7.25</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.bouncycastle:bcprov-jdk15on:jar:1.60:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.bouncycastle/bcprov-jdk15on@1.60</coordinates>
+                <description>The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms. This jar contains JCE provider and lightweight API for the Bouncy Castle Cryptography APIs for JDK 1.5 to JDK 1.7.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.bouncycastle/bcprov-jdk15on@1.60</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>net.bytebuddy:byte-buddy-agent:jar:1.9.10:test</key>
+            <value>
+                <coordinates>pkg:maven/net.bytebuddy/byte-buddy-agent@1.9.10</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/net.bytebuddy/byte-buddy-agent@1.9.10</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.9.8</coordinates>
+                <description>Add-on module to support JSR-310 (Java 8 Date &amp; Time API) data types.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.9.8</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-test-autoconfigure:jar:2.1.3.RELEASE:test</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Test Auto-Configure</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-test-autoconfigure@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.google.errorprone:error_prone_annotations:jar:2.2.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.google.errorprone/error_prone_annotations@2.2.0</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.google.errorprone/error_prone_annotations@2.2.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.sun.xml.messaging.saaj:saaj-impl:jar:1.5.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.5.0</coordinates>
+                <description>Open source Reference Implementation of JSR-76: SOAP with Attachments API for Java (SAAJ MR :1.3)</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.5.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.fasterxml.jackson.core:jackson-databind:jar:2.9.8:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.9.8</coordinates>
+                <description>General data-binding functionality for Jackson: works on core streaming API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.9.8</reference>
+                <vulnerabilities>
+                    <vulnerability>
+                        <id>f4f0c103-c9d9-4308-bd8f-489f2a632680</id>
+                        <title>[CVE-2019-16943] A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 th...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the p6spy (3.8.6) jar in the classpath, and an attacker can find an RMI service endpoint to access, it is possible to make the service execute a malicious payload. This issue exists because of com.p6spy.engine.spy.P6DataSource mishandling.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-16943</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/f4f0c103-c9d9-4308-bd8f-489f2a632680</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>67a15c66-4684-48a7-adb1-96845987cb0c</id>
+                        <title>[CVE-2019-14892] A flaw was discovered in jackson-databind in versions before 2.9.10, 2.8.11.5 an...</title>
+                        <description>A flaw was discovered in jackson-databind in versions before 2.9.10, 2.8.11.5 and 2.6.7.3, where it would permit polymorphic deserialization of a malicious object using commons-configuration 1 and 2 JNDI classes. An attacker could use this flaw to execute arbitrary code.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-14892</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/67a15c66-4684-48a7-adb1-96845987cb0c</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>5573b207-1a49-45a3-8dbc-71685b0f1012</id>
+                        <title>[CVE-2020-11619] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.springframework.aop.config.MethodLocatingFactoryBean (aka spring-aop).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11619</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/5573b207-1a49-45a3-8dbc-71685b0f1012</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>9da160f2-eb42-4ae6-af89-509b72c038cc</id>
+                        <title>[CVE-2020-9547] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to com.ibatis.sqlmap.engine.transaction.jta.JtaTransactionConfig (aka ibatis-sqlmap).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-9547</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/9da160f2-eb42-4ae6-af89-509b72c038cc</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>e5794172-1257-4372-9baf-7b87307a3cc9</id>
+                        <title>[CVE-2019-14379] SubTypeValidator.java in FasterXML jackson-databind before 2.9.9.2 mishandles de...</title>
+                        <description>SubTypeValidator.java in FasterXML jackson-databind before 2.9.9.2 mishandles default typing when ehcache is used, leading to remote code execution.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-14379</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/e5794172-1257-4372-9baf-7b87307a3cc9</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>3242fdc1-bfe9-46a6-af0c-0b8f57f56eb7</id>
+                        <title>[CVE-2019-16335] A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2.9.10. It is related to com.zaxxer.hikari.HikariDataSource. This is a different vulnerability than CVE-2019-14540.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-16335</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/3242fdc1-bfe9-46a6-af0c-0b8f57f56eb7</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>2fce6452-0901-4591-84ce-be0b9e4e82e9</id>
+                        <title>[CVE-2020-10969] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to javax.swing.JEditorPane.</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-10969</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/2fce6452-0901-4591-84ce-be0b9e4e82e9</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>33d59f1d-83ff-4527-9707-c3f1507b6125</id>
+                        <title>[CVE-2019-12384]  Deserialization of Untrusted Data</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.9 might allow attackers to have a variety of impacts by leveraging failure to block the logback-core class from polymorphic deserialization. Depending on the classpath content, remote code execution may be possible.</description>
+                        <cvssScore>5.9</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-12384</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/33d59f1d-83ff-4527-9707-c3f1507b6125</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>5113110f-3321-491d-9506-447a3361f9cd</id>
+                        <title>[CVE-2019-14893] A flaw was discovered in FasterXML jackson-databind in all versions before 2.9.1...</title>
+                        <description>A flaw was discovered in FasterXML jackson-databind in all versions before 2.9.10 and 2.10.0, where it would permit polymorphic deserialization of malicious objects using the xalan JNDI gadget when used in conjunction with polymorphic type handling methods such as `enableDefaultTyping()` or when @JsonTypeInfo is using `Id.CLASS` or `Id.MINIMAL_CLASS` or in any other way which ObjectMapper.readValue might instantiate objects from unsafe sources. An attacker could use this flaw to execute arbitrary code.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-14893</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/5113110f-3321-491d-9506-447a3361f9cd</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>008dd13c-dede-46f4-b103-f72bdbae725e</id>
+                        <title>[CVE-2020-10672] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.aries.transaction.jms.internal.XaPooledConnectionFactory (aka aries.transaction.jms).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-10672</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/008dd13c-dede-46f4-b103-f72bdbae725e</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>6ce886d0-2dfd-4cef-b9a4-2fb400baf5ef</id>
+                        <title>[CVE-2019-17267] A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2.9.10. It is related to net.sf.ehcache.hibernate.EhcacheJtaTransactionManagerLookup.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-17267</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/6ce886d0-2dfd-4cef-b9a4-2fb400baf5ef</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>ea932c13-011a-4c74-a092-48cd1c49adb4</id>
+                        <title>[CVE-2019-17531] A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 th...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the apache-log4j-extra (version 1.2.x) jar in the classpath, and an attacker can provide a JNDI service to access, it is possible to make the service execute a malicious payload.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-17531</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/ea932c13-011a-4c74-a092-48cd1c49adb4</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>69934c79-655c-4b0a-971b-ce869a375183</id>
+                        <title>[CVE-2020-11113] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.openjpa.ee.WASRegistryManagedRuntime (aka openjpa).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11113</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/69934c79-655c-4b0a-971b-ce869a375183</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>a2779722-6c77-4e1b-8ff0-71df027e1f03</id>
+                        <title>[CVE-2020-9546] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.hadoop.shaded.com.zaxxer.hikari.HikariConfig (aka shaded hikari-config).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-9546</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/a2779722-6c77-4e1b-8ff0-71df027e1f03</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>ed6fd4f6-b25f-494e-b4e3-ef10deff7d39</id>
+                        <title>[CVE-2020-10673] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to com.caucho.config.types.ResourceRef (aka caucho-quercus).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-10673</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/ed6fd4f6-b25f-494e-b4e3-ef10deff7d39</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>fc1e8802-77e5-458f-b987-eb778c6ac2fc</id>
+                        <title>[CVE-2019-14540] A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2.9.10. It is related to com.zaxxer.hikari.HikariConfig.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-14540</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/fc1e8802-77e5-458f-b987-eb778c6ac2fc</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>3e008100-e0d4-45bf-afd2-9d5e9b13efa7</id>
+                        <title>[CVE-2019-12814]  Information Exposure</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.x through 2.9.9. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has JDOM 1.x or 2.x jar in the classpath, an attacker can send a specifically crafted JSON message that allows them to read arbitrary local files on the server.</description>
+                        <cvssScore>5.9</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-12814</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/3e008100-e0d4-45bf-afd2-9d5e9b13efa7</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>323c6a23-f1e2-416d-bbcf-77b58cf7d4c4</id>
+                        <title>[CVE-2020-11620] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.commons.jelly.impl.Embedded (aka commons-jelly).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11620</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/323c6a23-f1e2-416d-bbcf-77b58cf7d4c4</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>5bbadb96-496f-4534-a513-7a6396f54029</id>
+                        <title>[CVE-2019-12086]  Information Exposure</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.x before 2.9.9. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint, the service has the mysql-connector-java jar (8.0.14 or earlier) in the classpath, and an attacker can host a crafted MySQL server reachable by the victim, an attacker can send a crafted JSON message that allows them to read arbitrary local files on the server. This occurs because of missing com.mysql.cj.jdbc.admin.MiniAdmin validation.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-12086</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/5bbadb96-496f-4534-a513-7a6396f54029</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>f479df7f-a147-4b9a-809d-828667c3d08e</id>
+                        <title>[CVE-2020-9548] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to br.com.anteros.dbcp.AnterosDBCPConfig (aka anteros-core).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-9548</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/f479df7f-a147-4b9a-809d-828667c3d08e</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>07632245-fcef-4eb3-82b6-aadbbfd2b33e</id>
+                        <title>[CVE-2019-16942] A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 th...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the commons-dbcp (1.4) jar in the classpath, and an attacker can find an RMI service endpoint to access, it is possible to make the service execute a malicious payload. This issue exists because of org.apache.commons.dbcp.datasources.SharedPoolDataSource and org.apache.commons.dbcp.datasources.PerUserPoolDataSource mishandling.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-16942</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/07632245-fcef-4eb3-82b6-aadbbfd2b33e</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>2fada372-53aa-4b38-907c-7d3faba7bcb8</id>
+                        <title>[CVE-2020-8840] FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JN...</title>
+                        <description>FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-8840</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/2fada372-53aa-4b38-907c-7d3faba7bcb8</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>ac9dce23-7b35-4691-b05e-a68f58d48b8c</id>
+                        <title>[CVE-2019-14439] A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.x befo...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.x before 2.9.9.2. This occurs when Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the logback jar in the classpath.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-14439</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/ac9dce23-7b35-4691-b05e-a68f58d48b8c</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>40d250b4-680a-4cf2-a677-40b8cdda0ce2</id>
+                        <title>[CVE-2019-20330] FasterXML jackson-databind 2.x before 2.9.10.2 lacks certain net.sf.ehcache bloc...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.2 lacks certain net.sf.ehcache blocking.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-20330</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/40d250b4-680a-4cf2-a677-40b8cdda0ce2</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>b217e47a-bd88-4936-b953-8560d22683dd</id>
+                        <title>[CVE-2020-11112] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.commons.proxy.provider.remoting.RmiProvider (aka apache/commons-proxy).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11112</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/b217e47a-bd88-4936-b953-8560d22683dd</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>b9dd031f-8287-454b-841f-635120eb35c2</id>
+                        <title>[CVE-2020-10968] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.aoju.bus.proxy.provider.remoting.RmiProvider (aka bus-proxy).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-10968</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/b9dd031f-8287-454b-841f-635120eb35c2</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>38254502-b22d-424d-a101-6da4433580ee</id>
+                        <title>[CVE-2020-11111] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.activemq.* (aka activemq-jms, activemq-core, activemq-pool, and activemq-pool-jms).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11111</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/38254502-b22d-424d-a101-6da4433580ee</reference>
+                    </vulnerability>
+                </vulnerabilities>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.1.3.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-actuator-autoconfigure@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.ow2.asm:asm:jar:5.0.4:test</key>
+            <value>
+                <coordinates>pkg:maven/org.ow2.asm/asm@5.0.4</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.ow2.asm/asm@5.0.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-transport-native-epoll:jar:linux-x86_64:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-transport-native-epoll@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-transport-native-epoll@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.9.0</coordinates>
+                <description>Core annotations used for value types, used by Jackson databinding package.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.9.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.data:spring-data-commons:jar:2.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.data/spring-data-commons@2.1.5.RELEASE</coordinates>
+                <description>Spring Data Commons. Interfaces and code shared between the various datastore specific implementations.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.data/spring-data-commons@2.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.jcraft:jzlib:jar:1.1.1:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.jcraft/jzlib@1.1.1</coordinates>
+                <description>JZlib is a re-implementation of zlib in pure Java</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.jcraft/jzlib@1.1.1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.springfox:springfox-spi:jar:2.9.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.springfox/springfox-spi@2.9.2</coordinates>
+                <description>JSON API documentation for spring based applications</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.springfox/springfox-spi@2.9.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.google.guava:failureaccess:jar:1.0.1:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.google.guava/failureaccess@1.0.1</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.google.guava/failureaccess@1.0.1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.latencyutils:LatencyUtils:jar:2.0.3:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.latencyutils/LatencyUtils@2.0.3</coordinates>
+                <description>LatencyUtils is a package that provides latency recording and reporting utilities.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.latencyutils/LatencyUtils@2.0.3</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.swagger:swagger-models:jar:1.5.20:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.swagger/swagger-models@1.5.20</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.swagger/swagger-models@1.5.20</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-handler-proxy:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-handler-proxy@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-handler-proxy@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-expression:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-expression@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-expression@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.cloud:spring-cloud-config-client:jar:2.1.1.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.cloud/spring-cloud-config-client@2.1.1.RELEASE</coordinates>
+                <description>This project is a Spring configuration client.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.cloud/spring-cloud-config-client@2.1.1.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.google.j2objc:j2objc-annotations:jar:1.1:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.google.j2objc/j2objc-annotations@1.1</coordinates>
+                <description>A set of annotations that provide additional information to the J2ObjC
+    translator to modify the result of translation.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.google.j2objc/j2objc-annotations@1.1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.jvnet.staxex:stax-ex:jar:1.8:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.jvnet.staxex/stax-ex@1.8</coordinates>
+                <description>Extensions to JSR-173 StAX API.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.jvnet.staxex/stax-ex@1.8</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.googlecode.javaewah:JavaEWAH:jar:1.1.6:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.googlecode.javaewah/JavaEWAH@1.1.6</coordinates>
+                <description>The bit array data structure is implemented in Java as the BitSet class. Unfortunately, this fails to scale without compression.
+
+JavaEWAH is a word-aligned compressed variant of the Java bitset class. It uses a 64-bit run-length encoding (RLE) compression scheme.
+
+The goal of word-aligned compression is not to achieve the best compression, but rather to improve query processing time. Hence, we try to save CPU cycles, maybe at the expense of storage. However, the EWAH scheme we implemented is always more efficient storage-wise than an uncompressed bitmap (implemented in Java as the BitSet class). Unlike some alternatives, javaewah does not rely on a patented scheme.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.googlecode.javaewah/JavaEWAH@1.1.6</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.jboss:jandex:jar:2.0.5.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.jboss/jandex@2.0.5.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.jboss/jandex@2.0.5.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.security:spring-security-core:jar:5.1.4.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.security/spring-security-core@5.1.4.RELEASE</coordinates>
+                <description>spring-security-acl</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.security/spring-security-core@5.1.4.RELEASE</reference>
+                <vulnerabilities>
+                    <vulnerability>
+                        <id>cda341be-3f80-4e93-86ff-34e581defedd</id>
+                        <title>[CVE-2019-3795]  Insufficient Entropy in PRNG</title>
+                        <description>Spring Security versions 4.2.x prior to 4.2.12, 5.0.x prior to 5.0.12, and 5.1.x prior to 5.1.5 contain an insecure randomness vulnerability when using SecureRandomFactoryBean#setSeed to configure a SecureRandom instance. In order to be impacted, an honest application must provide a seed and make the resulting random material available to an attacker for inspection.</description>
+                        <cvssScore>5.3</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-3795</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/cda341be-3f80-4e93-86ff-34e581defedd</reference>
+                    </vulnerability>
+                </vulnerabilities>
+            </value>
+        </entry>
+        <entry>
+            <key>commons-io:commons-io:jar:2.6:compile</key>
+            <value>
+                <coordinates>pkg:maven/commons-io/commons-io@2.6</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/commons-io/commons-io@2.6</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.amqp:spring-amqp:jar:2.1.4.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.amqp/spring-amqp@2.1.4.RELEASE</coordinates>
+                <description>Spring AMQP - support for Spring programming model with AMQP, especially but not limited to RabbitMQ http://www.springsource.org/spring-amqp</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.amqp/spring-amqp@2.1.4.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-tx:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-tx@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-tx@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.hibernate:hibernate-core:jar:5.3.7.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.hibernate/hibernate-core@5.3.7.Final</coordinates>
+                <description>A module of the Hibernate Core project</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.hibernate/hibernate-core@5.3.7.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.micrometer:micrometer-core:jar:1.1.3:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.micrometer/micrometer-core@1.1.3</coordinates>
+                <description>Application monitoring instrumentation facade</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.micrometer/micrometer-core@1.1.3</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.springfox:springfox-spring-web:jar:2.9.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.springfox/springfox-spring-web@2.9.2</coordinates>
+                <description>JSON API documentation for spring based applications</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.springfox/springfox-spring-web@2.9.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.hateoas:spring-hateoas:jar:0.25.1.RELEASE:test</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.hateoas/spring-hateoas@0.25.1.RELEASE</coordinates>
+                <description>Library to support implementing represnetaitons for 
+		hyper-text driven REST web services.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.hateoas/spring-hateoas@0.25.1.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.rabbitmq:amqp-client:jar:5.4.3:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.rabbitmq/amqp-client@5.4.3</coordinates>
+                <description>RabbitMQ AMQP Java Client</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.rabbitmq/amqp-client@5.4.3</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.codehaus.mojo:animal-sniffer-annotations:jar:1.17:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.codehaus.mojo/animal-sniffer-annotations@1.17</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.codehaus.mojo/animal-sniffer-annotations@1.17</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.springfox:springfox-swagger2:jar:2.9.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.springfox/springfox-swagger2@2.9.2</coordinates>
+                <description>JSON API documentation for spring based applications</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.springfox/springfox-swagger2@2.9.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-context:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-context@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-context@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.bosch.im:im-api2-client:jar:1.27:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.bosch.im/im-api2-client@1.27</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.bosch.im/im-api2-client@1.27</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-test:jar:2.1.3.RELEASE:test</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-test@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Test</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-test@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>javax.validation:validation-api:jar:2.0.1.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/javax.validation/validation-api@2.0.1.Final</coordinates>
+                <description>Bean Validation (JSR-303) API.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/javax.validation/validation-api@2.0.1.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-messaging:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-messaging@5.1.5.RELEASE</coordinates>
+                <description>Spring Messaging</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-messaging@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.lmax:disruptor:jar:3.4.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.lmax/disruptor@3.4.2</coordinates>
+                <description>Disruptor - Concurrent Programming Framework</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.lmax/disruptor@3.4.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.16:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.16</coordinates>
+                <description>Core Tomcat implementation</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.16</reference>
+                <vulnerabilities>
+                    <vulnerability>
+                        <id>47df3ef7-7bd3-4ef0-8d09-93e7b60eca74</id>
+                        <title>[CVE-2019-0232]  Improper Input Validation</title>
+                        <description>When running on Windows with enableCmdLineArguments enabled, the CGI Servlet in Apache Tomcat 9.0.0.M1 to 9.0.17, 8.5.0 to 8.5.39 and 7.0.0 to 7.0.93 is vulnerable to Remote Code Execution due to a bug in the way the JRE passes command line arguments to Windows. The CGI Servlet is disabled by default. The CGI option enableCmdLineArguments is disable by default in Tomcat 9.0.x (and will be disabled by default in all versions in response to this vulnerability). For a detailed explanation of the JRE behaviour, see Markus Wulftange's blog (https://codewhitesec.blogspot.com/2016/02/java-and-command-line-injections-in-windows.html) and this archived MSDN blog (https://web.archive.org/web/20161228144344/https://blogs.msdn.microsoft.com/twistylittlepassagesallalike/2011/04/23/everyone-quotes-command-line-arguments-the-wrong-way/).</description>
+                        <cvssScore>8.1</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-0232</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/47df3ef7-7bd3-4ef0-8d09-93e7b60eca74</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>45adc64a-392d-4d7f-8723-9997e4787496</id>
+                        <title>[CVE-2019-0221]  Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting")</title>
+                        <description>The SSI printenv command in Apache Tomcat 9.0.0.M1 to 9.0.0.17, 8.5.0 to 8.5.39 and 7.0.0 to 7.0.93 echoes user provided data without escaping and is, therefore, vulnerable to XSS. SSI is disabled by default. The printenv command is intended for debugging and is unlikely to be present in a production website.</description>
+                        <cvssScore>6.1</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N</cvssVector>
+                        <cve>CVE-2019-0221</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/45adc64a-392d-4d7f-8723-9997e4787496</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>cdb286ae-531f-4a30-90eb-21e059c2232d</id>
+                        <title>[CVE-2020-1935] In Apache Tomcat 9.0.0.M1 to 9.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99 the HTT...</title>
+                        <description>In Apache Tomcat 9.0.0.M1 to 9.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99 the HTTP header parsing code used an approach to end-of-line parsing that allowed some invalid HTTP headers to be parsed as valid. This led to a possibility of HTTP Request Smuggling if Tomcat was located behind a reverse proxy that incorrectly handled the invalid Transfer-Encoding header in a particular manner. Such a reverse proxy is considered unlikely.</description>
+                        <cvssScore>4.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N</cvssVector>
+                        <cve>CVE-2020-1935</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/cdb286ae-531f-4a30-90eb-21e059c2232d</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>560710f9-4912-441c-9aae-3baec60c9964</id>
+                        <title>[CVE-2019-17563] When using FORM authentication with Apache Tomcat 9.0.0.M1 to 9.0.29, 8.5.0 to 8...</title>
+                        <description>When using FORM authentication with Apache Tomcat 9.0.0.M1 to 9.0.29, 8.5.0 to 8.5.49 and 7.0.0 to 7.0.98 there was a narrow window where an attacker could perform a session fixation attack. The window was considered too narrow for an exploit to be practical but, erring on the side of caution, this issue has been treated as a security vulnerability.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-17563</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/560710f9-4912-441c-9aae-3baec60c9964</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>ef59a08e-1b98-4380-b189-26c15890c63e</id>
+                        <title>[CVE-2019-10072]  Uncontrolled Resource Consumption ("Resource Exhaustion")</title>
+                        <description>The fix for CVE-2019-0199 was incomplete and did not address HTTP/2 connection window exhaustion on write in Apache Tomcat versions 9.0.0.M1 to 9.0.19 and 8.5.0 to 8.5.40 . By not sending WINDOW_UPDATE messages for the connection window (stream 0) clients were able to cause server-side threads to block eventually leading to thread exhaustion and a DoS.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H</cvssVector>
+                        <cve>CVE-2019-10072</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/ef59a08e-1b98-4380-b189-26c15890c63e</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>d26aadb9-d565-4eeb-90eb-76d5fa730cb4</id>
+                        <title>[CVE-2019-12418] When Apache Tomcat 9.0.0.M1 to 9.0.28, 8.5.0 to 8.5.47, 7.0.0 and 7.0.97 is conf...</title>
+                        <description>When Apache Tomcat 9.0.0.M1 to 9.0.28, 8.5.0 to 8.5.47, 7.0.0 and 7.0.97 is configured with the JMX Remote Lifecycle Listener, a local attacker without access to the Tomcat process or configuration files is able to manipulate the RMI registry to perform a man-in-the-middle attack to capture user names and passwords used to access the JMX interface. The attacker can then use these credentials to access the JMX interface and gain complete control over the Tomcat instance.</description>
+                        <cvssScore>7.0</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-12418</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/d26aadb9-d565-4eeb-90eb-76d5fa730cb4</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>a08a7b6a-6fc2-48be-9ecd-118be87806cf</id>
+                        <title>[CVE-2020-1938] When using the Apache JServ Protocol (AJP), care must be taken when trusting inc...</title>
+                        <description>When using the Apache JServ Protocol (AJP), care must be taken when trusting incoming connections to Apache Tomcat. Tomcat treats AJP connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited in ways that may be surprising. In Apache Tomcat 9.0.0.M1 to 9.0.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99, Tomcat shipped with an AJP Connector enabled by default that listened on all configured IP addresses. It was expected (and recommended in the security guide) that this Connector would be disabled if not required. This vulnerability report identified a mechanism that allowed: - returning arbitrary files from anywhere in the web application - processing any file in the web application as a JSP Further, if the web application allowed file upload and stored those files within the web application (or the attacker was able to control the content of the web application by some other means) then this, along with the ability to process a file as a JSP, made remote code execution possible. It is important to note that mitigation is only required if an AJP port is accessible to untrusted users. Users wishing to take a defence-in-depth approach and block the vector that permits returning arbitrary files and execution as JSP may upgrade to Apache Tomcat 9.0.31, 8.5.51 or 7.0.100 or later. A number of changes were made to the default AJP Connector configuration in 9.0.31 to harden the default configuration. It is likely that users upgrading to 9.0.31, 8.5.51 or 7.0.100 or later will need to make small changes to their configurations.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-1938</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/a08a7b6a-6fc2-48be-9ecd-118be87806cf</reference>
+                    </vulnerability>
+                </vulnerabilities>
+            </value>
+        </entry>
+        <entry>
+            <key>javax.persistence:javax.persistence-api:jar:2.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/javax.persistence/javax.persistence-api@2.2</coordinates>
+                <description>Java(TM) Persistence API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/javax.persistence/javax.persistence-api@2.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.data:spring-data-jpa:jar:2.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.data/spring-data-jpa@2.1.5.RELEASE</coordinates>
+                <description>Spring Data module to provide sophisticated support for JPA repositories</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.data/spring-data-jpa@2.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.yaml:snakeyaml:jar:1.23:runtime</key>
+            <value>
+                <coordinates>pkg:maven/org.yaml/snakeyaml@1.23</coordinates>
+                <description>YAML 1.1 parser and emitter for Java</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.yaml/snakeyaml@1.23</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.commons:commons-lang3:jar:3.8.1:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.commons/commons-lang3@3.8.1</coordinates>
+                <description>Commons Lang, a package of Java utility classes for the
+        classes that are in java.lang's hierarchy, or are considered to be so
+        standard as to justify existence in java.lang.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.commons/commons-lang3@3.8.1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-actuator:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-actuator@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Actuator</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-actuator@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-aspects:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-aspects@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-aspects@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.h2database:h2:jar:1.4.199:test</key>
+            <value>
+                <coordinates>pkg:maven/com.h2database/h2@1.4.199</coordinates>
+                <description>H2 Database Engine</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.h2database/h2@1.4.199</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.asynchttpclient:async-http-client:jar:2.10.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.asynchttpclient/async-http-client@2.10.4</coordinates>
+                <description>The Async Http Client (AHC) classes.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.asynchttpclient/async-http-client@2.10.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.flywaydb:flyway-core:jar:4.2.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.flywaydb/flyway-core@4.2.0</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.flywaydb/flyway-core@4.2.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-web-services:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-web-services@2.1.3.RELEASE</coordinates>
+                <description>Starter for using Spring Web Services</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-web-services@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.ws:spring-ws-core:jar:3.0.6.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.ws/spring-ws-core@3.0.6.RELEASE</coordinates>
+                <description>Spring Web Services Core package.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.ws/spring-ws-core@3.0.6.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>net.bytebuddy:byte-buddy:jar:1.9.10:compile</key>
+            <value>
+                <coordinates>pkg:maven/net.bytebuddy/byte-buddy@1.9.10</coordinates>
+                <description>Byte Buddy is a Java library for creating Java classes at run time.
+        This artifact is a build of Byte Buddy with all ASM dependencies repackaged into its own name space.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/net.bytebuddy/byte-buddy@1.9.10</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.jsonwebtoken:jjwt-jackson:jar:0.10.7:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.jsonwebtoken/jjwt-jackson@0.10.7</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.jsonwebtoken/jjwt-jackson@0.10.7</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.security:spring-security-crypto:jar:5.1.4.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.security/spring-security-crypto@5.1.4.RELEASE</coordinates>
+                <description>spring-security-acl</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.security/spring-security-crypto@5.1.4.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.hamcrest:hamcrest-core:jar:1.3:test</key>
+            <value>
+                <coordinates>pkg:maven/org.hamcrest/hamcrest-core@1.3</coordinates>
+                <description>This is the core API of hamcrest matcher framework 
+		to be used by third-party framework providers. 
+		This includes the a foundation set of matcher
+		implementations for common operations.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.hamcrest/hamcrest-core@1.3</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.jayway.jsonpath:json-path:jar:2.4.0:test</key>
+            <value>
+                <coordinates>pkg:maven/com.jayway.jsonpath/json-path@2.4.0</coordinates>
+                <description>Java JsonPath implementation.
+A Java DSL for reading JSON documents.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.jayway.jsonpath/json-path@2.4.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.logging.log4j:log4j-core:jar:2.11.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.logging.log4j/log4j-core@2.11.2</coordinates>
+                <description>Log4 Implementation.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.logging.log4j/log4j-core@2.11.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.github.ben-manes.caffeine:caffeine:jar:2.6.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.github.ben-manes.caffeine/caffeine@2.6.2</coordinates>
+                <description>Concurrent data-structures for Java</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.github.ben-manes.caffeine/caffeine@2.6.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.security:spring-security-config:jar:5.1.4.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.security/spring-security-config@5.1.4.RELEASE</coordinates>
+                <description>spring-security-acl</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.security/spring-security-config@5.1.4.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-codec:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-codec@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-codec@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.jboss.logging:jboss-logging:jar:3.3.2.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.jboss.logging/jboss-logging@3.3.2.Final</coordinates>
+                <description>The JBoss Logging Framework</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.jboss.logging/jboss-logging@3.3.2.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-data-jpa:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-data-jpa@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Data JPA Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-data-jpa@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.commons:commons-text:jar:1.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.commons/commons-text@1.4</coordinates>
+                <description>Apache Commons Text is a library focused on algorithms working on strings.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.commons/commons-text@1.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.aspectj:aspectjweaver:jar:1.9.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.aspectj/aspectjweaver@1.9.2</coordinates>
+                <description>The AspectJ weaver introduces advices to java classes</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.aspectj/aspectjweaver@1.9.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.8:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.9.8</coordinates>
+                <description>Add-on module for Jackson (http://jackson.codehaus.org) to support
+introspection of method/constructor parameter names, without having to add explicit property name annotation.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.9.8</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.xmlunit:xmlunit-core:jar:2.6.2:test</key>
+            <value>
+                <coordinates>pkg:maven/org.xmlunit/xmlunit-core@2.6.2</coordinates>
+                <description>XMLUnit for Java</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.xmlunit/xmlunit-core@2.6.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>javax.xml.ws:jaxws-api:jar:2.3.1:compile</key>
+            <value>
+                <coordinates>pkg:maven/javax.xml.ws/jaxws-api@2.3.1</coordinates>
+                <description>JAX-WS (JSR 224) API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/javax.xml.ws/jaxws-api@2.3.1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>de.jcim:common-modules:jar:0.0.1:compile</key>
+            <value>
+                <coordinates>pkg:maven/de.jcim/common-modules@0.0.1</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/de.jcim/common-modules@0.0.1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-resolver-dns:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-resolver-dns@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-resolver-dns@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-autoconfigure:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot AutoConfigure</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-autoconfigure@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.swagger:swagger-annotations:jar:1.5.20:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.swagger/swagger-annotations@1.5.20</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.swagger/swagger-annotations@1.5.20</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.mapstruct:mapstruct:jar:1.2.0.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.mapstruct/mapstruct@1.2.0.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.mapstruct/mapstruct@1.2.0.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.asynchttpclient:async-http-client-netty-utils:jar:2.10.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.asynchttpclient/async-http-client-netty-utils@2.10.4</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.asynchttpclient/async-http-client-netty-utils@2.10.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.logging.log4j:log4j-slf4j-impl:jar:2.11.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.logging.log4j/log4j-slf4j-impl@2.11.2</coordinates>
+                <description>Binding between SLF4J API and Log4J2 Core</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.logging.log4j/log4j-slf4j-impl@2.11.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.dom4j:dom4j:jar:2.1.1:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.dom4j/dom4j@2.1.1</coordinates>
+                <description>flexible XML framework for Java</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.dom4j/dom4j@2.1.1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-buffer:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-buffer@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-buffer@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.reactivestreams:reactive-streams:jar:1.0.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.reactivestreams/reactive-streams@1.0.2</coordinates>
+                <description>reactive-streams</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.reactivestreams/reactive-streams@1.0.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>commons-codec:commons-codec:jar:1.11:compile</key>
+            <value>
+                <coordinates>pkg:maven/commons-codec/commons-codec@1.11</coordinates>
+                <description>The codec package contains simple encoder and decoders for
+   various formats such as Base64 and Hexadecimal.  In addition to these
+   widely used encoders and decoders, the codec package also maintains a
+   collection of phonetic encoding utilities.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/commons-codec/commons-codec@1.11</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.slf4j:slf4j-api:jar:1.7.25:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.slf4j/slf4j-api@1.7.25</coordinates>
+                <description>The slf4j API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.slf4j/slf4j-api@1.7.25</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-transport-native-unix-common:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-transport-native-unix-common@4.1.33.Final</coordinates>
+                <description>Static library which contains common unix utilities.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-transport-native-unix-common@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-oxm:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-oxm@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-oxm@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.projectlombok:lombok:jar:1.18.6:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.projectlombok/lombok@1.18.6</coordinates>
+                <description>Spice up your java: Automatic Resource Management, automatic generation of getters, setters, equals, hashCode and toString, and more!</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.projectlombok/lombok@1.18.6</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.hdrhistogram:HdrHistogram:jar:2.1.9:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.hdrhistogram/HdrHistogram@2.1.9</coordinates>
+                <description>HdrHistogram supports the recording and analyzing sampled data value
+        counts across a configurable integer value range with configurable value
+        precision within the range. Value precision is expressed as the number of
+        significant digits in the value recording, and provides control over value
+        quantization behavior across the value range and the subsequent value
+        resolution at any given level.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.hdrhistogram/HdrHistogram@2.1.9</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.zaxxer:HikariCP:jar:3.2.0:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.zaxxer/HikariCP@3.2.0</coordinates>
+                <description>Ultimate JDBC Connection Pool</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.zaxxer/HikariCP@3.2.0</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-common:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-common@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-common@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-jdbc:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-jdbc@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-jdbc@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.cloud:spring-cloud-config-server:jar:2.1.1.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.cloud/spring-cloud-config-server@2.1.1.RELEASE</coordinates>
+                <description>spring-cloud-config-server</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.cloud/spring-cloud-config-server@2.1.1.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-aop:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-aop@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-aop@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.assertj:assertj-core:jar:3.11.1:test</key>
+            <value>
+                <coordinates>pkg:maven/org.assertj/assertj-core@3.11.1</coordinates>
+                <description>Rich and fluent assertions for testing</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.assertj/assertj-core@3.11.1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-beans:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-beans@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-beans@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-webmvc:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-webmvc@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-webmvc@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-aop:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-aop@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot AOP Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-aop@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.eclipse.jgit:org.eclipse.jgit.http.apache:jar:5.1.3.201810200350-r:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@5.1.3.201810200350-r</coordinates>
+                <description>Apache httpclient based HTTP support</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.eclipse.jgit/org.eclipse.jgit.http.apache@5.1.3.201810200350-r</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-web:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-web@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-web@5.1.5.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.16:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.16</coordinates>
+                <description>Core Tomcat implementation</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.16</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-transport:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-transport@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-transport@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-transport-native-kqueue:jar:osx-x86_64:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-transport-native-kqueue@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-transport-native-kqueue@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-core:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-core@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-core@5.1.5.RELEASE</reference>
+                <vulnerabilities>
+                    <vulnerability>
+                        <id>07e93ccb-05c0-405d-9df8-56a5acf32070</id>
+                        <title>[CVE-2020-5398] In Spring Framework, versions 5.2.x prior to 5.2.3, versions 5.1.x prior to 5.1....</title>
+                        <description>In Spring Framework, versions 5.2.x prior to 5.2.3, versions 5.1.x prior to 5.1.13, and versions 5.0.x prior to 5.0.16, an application is vulnerable to a reflected file download (RFD) attack when it sets a "Content-Disposition" header in the response where the filename attribute is derived from user supplied input.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-5398</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/07e93ccb-05c0-405d-9df8-56a5acf32070</reference>
+                    </vulnerability>
+                </vulnerabilities>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-actuator:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-actuator@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Actuator Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-actuator@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.logging.log4j:log4j-jul:jar:2.11.2:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.logging.log4j/log4j-jul@2.11.2</coordinates>
+                <description>The Apache Log4j implementation of java.util.logging</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.logging.log4j/log4j-jul@2.11.2</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.oracle.database.jdbc:ucp:jar:11.2.0.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.oracle.database.jdbc/ucp@11.2.0.4</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.oracle.database.jdbc/ucp@11.2.0.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-resolver:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-resolver@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-resolver@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.hibernate.common:hibernate-commons-annotations:jar:5.0.4.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.hibernate.common/hibernate-commons-annotations@5.0.4.Final</coordinates>
+                <description>Common reflection code used in support of annotation processing</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.hibernate.common/hibernate-commons-annotations@5.0.4.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.oracle.database.security:oraclepki:jar:11.2.0.4:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.oracle.database.security/oraclepki@11.2.0.4</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.oracle.database.security/oraclepki@11.2.0.4</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.javassist:javassist:jar:3.23.1-GA:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.javassist/javassist@3.23.1-GA</coordinates>
+                <description>Javassist (JAVA programming ASSISTant) makes Java bytecode manipulation
+     simple.  It is a class library for editing bytecodes in Java.</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.javassist/javassist@3.23.1-GA</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-configuration-processor:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Configuration Processor</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-configuration-processor@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.ws:spring-xml:jar:3.0.6.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.ws/spring-xml@3.0.6.RELEASE</coordinates>
+                <description>Various XML support classes for Spring Web Services</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.ws/spring-xml@3.0.6.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>io.netty:netty-codec-socks:jar:4.1.33.Final:compile</key>
+            <value>
+                <coordinates>pkg:maven/io.netty/netty-codec-socks@4.1.33.Final</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/io.netty/netty-codec-socks@4.1.33.Final</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test</key>
+            <value>
+                <coordinates>pkg:maven/com.vaadin.external.google/android-json@0.0.20131108.vaadin1</coordinates>
+                <description>????JSON (JavaScript Object Notation) is a lightweight data-interchange format.
+      This is the org.json compatible Android implementation extracted from the Android SDK
+   ??</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.vaadin.external.google/android-json@0.0.20131108.vaadin1</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.eclipse.jgit:org.eclipse.jgit:jar:5.1.3.201810200350-r:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.eclipse.jgit/org.eclipse.jgit@5.1.3.201810200350-r</coordinates>
+                <description>Repository access and algorithms</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.eclipse.jgit/org.eclipse.jgit@5.1.3.201810200350-r</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework.boot:spring-boot-starter-log4j2:jar:2.1.3.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.boot/spring-boot-starter-log4j2@2.1.3.RELEASE</coordinates>
+                <description>Spring Boot Log4J2 Starter</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.boot/spring-boot-starter-log4j2@2.1.3.RELEASE</reference>
+                <vulnerabilities/>
+            </value>
+        </entry>
+    </reports>
+    <vulnerable>
+        <entry>
+            <key>org.springframework.security:spring-security-core:jar:5.1.4.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework.security/spring-security-core@5.1.4.RELEASE</coordinates>
+                <description>spring-security-acl</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework.security/spring-security-core@5.1.4.RELEASE</reference>
+                <vulnerabilities>
+                    <vulnerability>
+                        <id>cda341be-3f80-4e93-86ff-34e581defedd</id>
+                        <title>[CVE-2019-3795]  Insufficient Entropy in PRNG</title>
+                        <description>Spring Security versions 4.2.x prior to 4.2.12, 5.0.x prior to 5.0.12, and 5.1.x prior to 5.1.5 contain an insecure randomness vulnerability when using SecureRandomFactoryBean#setSeed to configure a SecureRandom instance. In order to be impacted, an honest application must provide a seed and make the resulting random material available to an attacker for inspection.</description>
+                        <cvssScore>5.3</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-3795</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/cda341be-3f80-4e93-86ff-34e581defedd</reference>
+                    </vulnerability>
+                </vulnerabilities>
+            </value>
+        </entry>
+        <entry>
+            <key>org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.16:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.16</coordinates>
+                <description>Core Tomcat implementation</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.16</reference>
+                <vulnerabilities>
+                    <vulnerability>
+                        <id>47df3ef7-7bd3-4ef0-8d09-93e7b60eca74</id>
+                        <title>[CVE-2019-0232]  Improper Input Validation</title>
+                        <description>When running on Windows with enableCmdLineArguments enabled, the CGI Servlet in Apache Tomcat 9.0.0.M1 to 9.0.17, 8.5.0 to 8.5.39 and 7.0.0 to 7.0.93 is vulnerable to Remote Code Execution due to a bug in the way the JRE passes command line arguments to Windows. The CGI Servlet is disabled by default. The CGI option enableCmdLineArguments is disable by default in Tomcat 9.0.x (and will be disabled by default in all versions in response to this vulnerability). For a detailed explanation of the JRE behaviour, see Markus Wulftange's blog (https://codewhitesec.blogspot.com/2016/02/java-and-command-line-injections-in-windows.html) and this archived MSDN blog (https://web.archive.org/web/20161228144344/https://blogs.msdn.microsoft.com/twistylittlepassagesallalike/2011/04/23/everyone-quotes-command-line-arguments-the-wrong-way/).</description>
+                        <cvssScore>8.1</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-0232</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/47df3ef7-7bd3-4ef0-8d09-93e7b60eca74</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>45adc64a-392d-4d7f-8723-9997e4787496</id>
+                        <title>[CVE-2019-0221]  Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting")</title>
+                        <description>The SSI printenv command in Apache Tomcat 9.0.0.M1 to 9.0.0.17, 8.5.0 to 8.5.39 and 7.0.0 to 7.0.93 echoes user provided data without escaping and is, therefore, vulnerable to XSS. SSI is disabled by default. The printenv command is intended for debugging and is unlikely to be present in a production website.</description>
+                        <cvssScore>6.1</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N</cvssVector>
+                        <cve>CVE-2019-0221</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/45adc64a-392d-4d7f-8723-9997e4787496</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>cdb286ae-531f-4a30-90eb-21e059c2232d</id>
+                        <title>[CVE-2020-1935] In Apache Tomcat 9.0.0.M1 to 9.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99 the HTT...</title>
+                        <description>In Apache Tomcat 9.0.0.M1 to 9.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99 the HTTP header parsing code used an approach to end-of-line parsing that allowed some invalid HTTP headers to be parsed as valid. This led to a possibility of HTTP Request Smuggling if Tomcat was located behind a reverse proxy that incorrectly handled the invalid Transfer-Encoding header in a particular manner. Such a reverse proxy is considered unlikely.</description>
+                        <cvssScore>4.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N</cvssVector>
+                        <cve>CVE-2020-1935</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/cdb286ae-531f-4a30-90eb-21e059c2232d</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>560710f9-4912-441c-9aae-3baec60c9964</id>
+                        <title>[CVE-2019-17563] When using FORM authentication with Apache Tomcat 9.0.0.M1 to 9.0.29, 8.5.0 to 8...</title>
+                        <description>When using FORM authentication with Apache Tomcat 9.0.0.M1 to 9.0.29, 8.5.0 to 8.5.49 and 7.0.0 to 7.0.98 there was a narrow window where an attacker could perform a session fixation attack. The window was considered too narrow for an exploit to be practical but, erring on the side of caution, this issue has been treated as a security vulnerability.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-17563</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/560710f9-4912-441c-9aae-3baec60c9964</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>ef59a08e-1b98-4380-b189-26c15890c63e</id>
+                        <title>[CVE-2019-10072]  Uncontrolled Resource Consumption ("Resource Exhaustion")</title>
+                        <description>The fix for CVE-2019-0199 was incomplete and did not address HTTP/2 connection window exhaustion on write in Apache Tomcat versions 9.0.0.M1 to 9.0.19 and 8.5.0 to 8.5.40 . By not sending WINDOW_UPDATE messages for the connection window (stream 0) clients were able to cause server-side threads to block eventually leading to thread exhaustion and a DoS.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H</cvssVector>
+                        <cve>CVE-2019-10072</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/ef59a08e-1b98-4380-b189-26c15890c63e</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>d26aadb9-d565-4eeb-90eb-76d5fa730cb4</id>
+                        <title>[CVE-2019-12418] When Apache Tomcat 9.0.0.M1 to 9.0.28, 8.5.0 to 8.5.47, 7.0.0 and 7.0.97 is conf...</title>
+                        <description>When Apache Tomcat 9.0.0.M1 to 9.0.28, 8.5.0 to 8.5.47, 7.0.0 and 7.0.97 is configured with the JMX Remote Lifecycle Listener, a local attacker without access to the Tomcat process or configuration files is able to manipulate the RMI registry to perform a man-in-the-middle attack to capture user names and passwords used to access the JMX interface. The attacker can then use these credentials to access the JMX interface and gain complete control over the Tomcat instance.</description>
+                        <cvssScore>7.0</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-12418</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/d26aadb9-d565-4eeb-90eb-76d5fa730cb4</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>a08a7b6a-6fc2-48be-9ecd-118be87806cf</id>
+                        <title>[CVE-2020-1938] When using the Apache JServ Protocol (AJP), care must be taken when trusting inc...</title>
+                        <description>When using the Apache JServ Protocol (AJP), care must be taken when trusting incoming connections to Apache Tomcat. Tomcat treats AJP connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited in ways that may be surprising. In Apache Tomcat 9.0.0.M1 to 9.0.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99, Tomcat shipped with an AJP Connector enabled by default that listened on all configured IP addresses. It was expected (and recommended in the security guide) that this Connector would be disabled if not required. This vulnerability report identified a mechanism that allowed: - returning arbitrary files from anywhere in the web application - processing any file in the web application as a JSP Further, if the web application allowed file upload and stored those files within the web application (or the attacker was able to control the content of the web application by some other means) then this, along with the ability to process a file as a JSP, made remote code execution possible. It is important to note that mitigation is only required if an AJP port is accessible to untrusted users. Users wishing to take a defence-in-depth approach and block the vector that permits returning arbitrary files and execution as JSP may upgrade to Apache Tomcat 9.0.31, 8.5.51 or 7.0.100 or later. A number of changes were made to the default AJP Connector configuration in 9.0.31 to harden the default configuration. It is likely that users upgrading to 9.0.31, 8.5.51 or 7.0.100 or later will need to make small changes to their configurations.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-1938</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/a08a7b6a-6fc2-48be-9ecd-118be87806cf</reference>
+                    </vulnerability>
+                </vulnerabilities>
+            </value>
+        </entry>
+        <entry>
+            <key>org.springframework:spring-core:jar:5.1.5.RELEASE:compile</key>
+            <value>
+                <coordinates>pkg:maven/org.springframework/spring-core@5.1.5.RELEASE</coordinates>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/org.springframework/spring-core@5.1.5.RELEASE</reference>
+                <vulnerabilities>
+                    <vulnerability>
+                        <id>07e93ccb-05c0-405d-9df8-56a5acf32070</id>
+                        <title>[CVE-2020-5398] In Spring Framework, versions 5.2.x prior to 5.2.3, versions 5.1.x prior to 5.1....</title>
+                        <description>In Spring Framework, versions 5.2.x prior to 5.2.3, versions 5.1.x prior to 5.1.13, and versions 5.0.x prior to 5.0.16, an application is vulnerable to a reflected file download (RFD) attack when it sets a "Content-Disposition" header in the response where the filename attribute is derived from user supplied input.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-5398</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/07e93ccb-05c0-405d-9df8-56a5acf32070</reference>
+                    </vulnerability>
+                </vulnerabilities>
+            </value>
+        </entry>
+        <entry>
+            <key>com.fasterxml.jackson.core:jackson-databind:jar:2.9.8:compile</key>
+            <value>
+                <coordinates>pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.9.8</coordinates>
+                <description>General data-binding functionality for Jackson: works on core streaming API</description>
+                <reference>https://ossindex.sonatype.org/component/pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.9.8</reference>
+                <vulnerabilities>
+                    <vulnerability>
+                        <id>f4f0c103-c9d9-4308-bd8f-489f2a632680</id>
+                        <title>[CVE-2019-16943] A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 th...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the p6spy (3.8.6) jar in the classpath, and an attacker can find an RMI service endpoint to access, it is possible to make the service execute a malicious payload. This issue exists because of com.p6spy.engine.spy.P6DataSource mishandling.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-16943</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/f4f0c103-c9d9-4308-bd8f-489f2a632680</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>67a15c66-4684-48a7-adb1-96845987cb0c</id>
+                        <title>[CVE-2019-14892] A flaw was discovered in jackson-databind in versions before 2.9.10, 2.8.11.5 an...</title>
+                        <description>A flaw was discovered in jackson-databind in versions before 2.9.10, 2.8.11.5 and 2.6.7.3, where it would permit polymorphic deserialization of a malicious object using commons-configuration 1 and 2 JNDI classes. An attacker could use this flaw to execute arbitrary code.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-14892</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/67a15c66-4684-48a7-adb1-96845987cb0c</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>5573b207-1a49-45a3-8dbc-71685b0f1012</id>
+                        <title>[CVE-2020-11619] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.springframework.aop.config.MethodLocatingFactoryBean (aka spring-aop).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11619</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/5573b207-1a49-45a3-8dbc-71685b0f1012</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>9da160f2-eb42-4ae6-af89-509b72c038cc</id>
+                        <title>[CVE-2020-9547] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to com.ibatis.sqlmap.engine.transaction.jta.JtaTransactionConfig (aka ibatis-sqlmap).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-9547</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/9da160f2-eb42-4ae6-af89-509b72c038cc</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>e5794172-1257-4372-9baf-7b87307a3cc9</id>
+                        <title>[CVE-2019-14379] SubTypeValidator.java in FasterXML jackson-databind before 2.9.9.2 mishandles de...</title>
+                        <description>SubTypeValidator.java in FasterXML jackson-databind before 2.9.9.2 mishandles default typing when ehcache is used, leading to remote code execution.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-14379</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/e5794172-1257-4372-9baf-7b87307a3cc9</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>3242fdc1-bfe9-46a6-af0c-0b8f57f56eb7</id>
+                        <title>[CVE-2019-16335] A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2.9.10. It is related to com.zaxxer.hikari.HikariDataSource. This is a different vulnerability than CVE-2019-14540.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-16335</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/3242fdc1-bfe9-46a6-af0c-0b8f57f56eb7</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>2fce6452-0901-4591-84ce-be0b9e4e82e9</id>
+                        <title>[CVE-2020-10969] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to javax.swing.JEditorPane.</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-10969</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/2fce6452-0901-4591-84ce-be0b9e4e82e9</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>33d59f1d-83ff-4527-9707-c3f1507b6125</id>
+                        <title>[CVE-2019-12384]  Deserialization of Untrusted Data</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.9 might allow attackers to have a variety of impacts by leveraging failure to block the logback-core class from polymorphic deserialization. Depending on the classpath content, remote code execution may be possible.</description>
+                        <cvssScore>5.9</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-12384</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/33d59f1d-83ff-4527-9707-c3f1507b6125</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>5113110f-3321-491d-9506-447a3361f9cd</id>
+                        <title>[CVE-2019-14893] A flaw was discovered in FasterXML jackson-databind in all versions before 2.9.1...</title>
+                        <description>A flaw was discovered in FasterXML jackson-databind in all versions before 2.9.10 and 2.10.0, where it would permit polymorphic deserialization of malicious objects using the xalan JNDI gadget when used in conjunction with polymorphic type handling methods such as `enableDefaultTyping()` or when @JsonTypeInfo is using `Id.CLASS` or `Id.MINIMAL_CLASS` or in any other way which ObjectMapper.readValue might instantiate objects from unsafe sources. An attacker could use this flaw to execute arbitrary code.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-14893</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/5113110f-3321-491d-9506-447a3361f9cd</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>008dd13c-dede-46f4-b103-f72bdbae725e</id>
+                        <title>[CVE-2020-10672] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.aries.transaction.jms.internal.XaPooledConnectionFactory (aka aries.transaction.jms).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-10672</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/008dd13c-dede-46f4-b103-f72bdbae725e</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>6ce886d0-2dfd-4cef-b9a4-2fb400baf5ef</id>
+                        <title>[CVE-2019-17267] A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2.9.10. It is related to net.sf.ehcache.hibernate.EhcacheJtaTransactionManagerLookup.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-17267</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/6ce886d0-2dfd-4cef-b9a4-2fb400baf5ef</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>ea932c13-011a-4c74-a092-48cd1c49adb4</id>
+                        <title>[CVE-2019-17531] A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 th...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the apache-log4j-extra (version 1.2.x) jar in the classpath, and an attacker can provide a JNDI service to access, it is possible to make the service execute a malicious payload.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-17531</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/ea932c13-011a-4c74-a092-48cd1c49adb4</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>69934c79-655c-4b0a-971b-ce869a375183</id>
+                        <title>[CVE-2020-11113] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.openjpa.ee.WASRegistryManagedRuntime (aka openjpa).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11113</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/69934c79-655c-4b0a-971b-ce869a375183</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>a2779722-6c77-4e1b-8ff0-71df027e1f03</id>
+                        <title>[CVE-2020-9546] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.hadoop.shaded.com.zaxxer.hikari.HikariConfig (aka shaded hikari-config).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-9546</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/a2779722-6c77-4e1b-8ff0-71df027e1f03</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>ed6fd4f6-b25f-494e-b4e3-ef10deff7d39</id>
+                        <title>[CVE-2020-10673] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to com.caucho.config.types.ResourceRef (aka caucho-quercus).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-10673</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/ed6fd4f6-b25f-494e-b4e3-ef10deff7d39</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>fc1e8802-77e5-458f-b987-eb778c6ac2fc</id>
+                        <title>[CVE-2019-14540] A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2.9.10. It is related to com.zaxxer.hikari.HikariConfig.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-14540</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/fc1e8802-77e5-458f-b987-eb778c6ac2fc</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>3e008100-e0d4-45bf-afd2-9d5e9b13efa7</id>
+                        <title>[CVE-2019-12814]  Information Exposure</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.x through 2.9.9. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has JDOM 1.x or 2.x jar in the classpath, an attacker can send a specifically crafted JSON message that allows them to read arbitrary local files on the server.</description>
+                        <cvssScore>5.9</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-12814</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/3e008100-e0d4-45bf-afd2-9d5e9b13efa7</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>323c6a23-f1e2-416d-bbcf-77b58cf7d4c4</id>
+                        <title>[CVE-2020-11620] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.commons.jelly.impl.Embedded (aka commons-jelly).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11620</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/323c6a23-f1e2-416d-bbcf-77b58cf7d4c4</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>5bbadb96-496f-4534-a513-7a6396f54029</id>
+                        <title>[CVE-2019-12086]  Information Exposure</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.x before 2.9.9. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint, the service has the mysql-connector-java jar (8.0.14 or earlier) in the classpath, and an attacker can host a crafted MySQL server reachable by the victim, an attacker can send a crafted JSON message that allows them to read arbitrary local files on the server. This occurs because of missing com.mysql.cj.jdbc.admin.MiniAdmin validation.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-12086</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/5bbadb96-496f-4534-a513-7a6396f54029</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>f479df7f-a147-4b9a-809d-828667c3d08e</id>
+                        <title>[CVE-2020-9548] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to br.com.anteros.dbcp.AnterosDBCPConfig (aka anteros-core).</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-9548</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/f479df7f-a147-4b9a-809d-828667c3d08e</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>07632245-fcef-4eb3-82b6-aadbbfd2b33e</id>
+                        <title>[CVE-2019-16942] A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 th...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the commons-dbcp (1.4) jar in the classpath, and an attacker can find an RMI service endpoint to access, it is possible to make the service execute a malicious payload. This issue exists because of org.apache.commons.dbcp.datasources.SharedPoolDataSource and org.apache.commons.dbcp.datasources.PerUserPoolDataSource mishandling.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-16942</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/07632245-fcef-4eb3-82b6-aadbbfd2b33e</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>2fada372-53aa-4b38-907c-7d3faba7bcb8</id>
+                        <title>[CVE-2020-8840] FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JN...</title>
+                        <description>FasterXML jackson-databind 2.0.0 through 2.9.10.2 lacks certain xbean-reflect/JNDI blocking, as demonstrated by org.apache.xbean.propertyeditor.JndiConverter.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-8840</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/2fada372-53aa-4b38-907c-7d3faba7bcb8</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>ac9dce23-7b35-4691-b05e-a68f58d48b8c</id>
+                        <title>[CVE-2019-14439] A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.x befo...</title>
+                        <description>A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.x before 2.9.9.2. This occurs when Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the logback jar in the classpath.</description>
+                        <cvssScore>7.5</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N</cvssVector>
+                        <cve>CVE-2019-14439</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/ac9dce23-7b35-4691-b05e-a68f58d48b8c</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>40d250b4-680a-4cf2-a677-40b8cdda0ce2</id>
+                        <title>[CVE-2019-20330] FasterXML jackson-databind 2.x before 2.9.10.2 lacks certain net.sf.ehcache bloc...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.2 lacks certain net.sf.ehcache blocking.</description>
+                        <cvssScore>9.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2019-20330</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/40d250b4-680a-4cf2-a677-40b8cdda0ce2</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>b217e47a-bd88-4936-b953-8560d22683dd</id>
+                        <title>[CVE-2020-11112] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.commons.proxy.provider.remoting.RmiProvider (aka apache/commons-proxy).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11112</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/b217e47a-bd88-4936-b953-8560d22683dd</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>b9dd031f-8287-454b-841f-635120eb35c2</id>
+                        <title>[CVE-2020-10968] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.aoju.bus.proxy.provider.remoting.RmiProvider (aka bus-proxy).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-10968</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/b9dd031f-8287-454b-841f-635120eb35c2</reference>
+                    </vulnerability>
+                    <vulnerability>
+                        <id>38254502-b22d-424d-a101-6da4433580ee</id>
+                        <title>[CVE-2020-11111] FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction betwee...</title>
+                        <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.activemq.* (aka activemq-jms, activemq-core, activemq-pool, and activemq-pool-jms).</description>
+                        <cvssScore>8.8</cvssScore>
+                        <cvssVector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H</cvssVector>
+                        <cve>CVE-2020-11111</cve>
+                        <reference>https://ossindex.sonatype.org/vuln/38254502-b22d-424d-a101-6da4433580ee</reference>
+                    </vulnerability>
+                </vulnerabilities>
+            </value>
+        </entry>
+    </vulnerable>
+    <excludedCoordinates/>
+    <excludedVulnerabilities/>
+</componentReportExport>

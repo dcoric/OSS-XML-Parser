@@ -80,7 +80,8 @@ export {
     ExternalReference,
     Components,
     Report,
-    Vulnerability
+    Vulnerability,
+    TestCase
 };
 
 export default XMLFile;

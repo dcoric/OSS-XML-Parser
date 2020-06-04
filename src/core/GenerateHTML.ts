@@ -1,4 +1,4 @@
-import {Components, Report} from "../model/Component";
+import {Components, Report, TestCase} from "../model/Component";
 import * as _ from 'lodash';
 
 enum TYPES {
@@ -14,7 +14,7 @@ export default class GenerateHTML {
     private readonly numberOfTests: string;
     private readonly numberOfFailures: string;
     private readonly timestamp: Date;
-    private readonly testCaseArray: string;
+    private readonly testCaseArray: TestCase[];
     constructor(htmlProperties: any) {
         const {components,
             reportEntries,
@@ -139,7 +139,18 @@ export default class GenerateHTML {
     }
 
     private renderTestSuiteHTML(): string {
-        return `<h1>Number of tests: ${this.numberOfTests}</h1>`;
+        const entries = [`<h3>Number of tests: ${this.numberOfTests}</h3>`];
+        entries.push(`<h3>Number of failures: ${this.numberOfFailures}</h3>`);
+        entries.push(`<h3>Timestamp: ${this.timestamp.toDateString()}</h3>`);
+        this.testCaseArray.map((testCase, index) => {
+            entries.push('<p>');
+            entries.push(`<b>Test #${index+1}</b><br/>`);
+            entries.push(`<b>class name:</b> ${testCase.$.classname}<br/>`);
+            entries.push(`<b>name:</b> ${testCase.$.name}<br/>`);
+            entries.push('</p>');
+            return testCase;
+        });
+        return entries.join('');
     }
 
     public getHTML(): string {

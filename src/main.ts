@@ -90,9 +90,20 @@ const showOpen = (): void => {
                         }
                     })
                     .catch(promiseError => {
-                        console.error(promiseError)
-                    mainWindow.loadURL("data:text/html;charset=utf-8,"
-                        + encodeURIComponent(`<h2>${promiseError}</h2>`));
+                        const output = [];
+                        output.push(`
+                          <style type="text/css">
+                            body { width: 100%; background: #efefef; color: #2a2a2a; font-family: Helvetica, Arial; }
+                            .container { margin: 10px; text-align: center; }
+                            code {margin: 10px;background: #e5e9ec; text-align: center; width: 100%;}
+                          </style>
+                        `);
+                        output.push(`<div class="container">`);
+                        output.push(`<h1>${promiseError.message}</h1>`);
+                        output.push(`<code class="error">Unknown structure: ${JSON.stringify(promiseError.code, Object.keys(promiseError.code))}</code>`);
+                        output.push('</div>');
+                        mainWindow.loadURL("data:text/html;charset=utf-8,"
+                            + encodeURIComponent(output.join('')));
                     });
             }
         })

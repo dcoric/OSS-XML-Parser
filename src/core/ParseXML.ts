@@ -59,7 +59,7 @@ class ParseXML {
                             );
                         } else {
                             console.log('XML Format is not supported', parsingResult);
-                            reject('XML Format is not supported');
+                            reject({message: 'XML Format is not supported', code: parsingResult});
                         }
                         resolve(htmlGenerator.getHTML());
                     })

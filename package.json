@@ -1,0 +1,33 @@
+{
+  "name": "XML-converter",
+  "version": "1.0.0",
+  "description": "Licenses XML Import & convert for convenient presentation",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "lint": "tslint -c tslint.json -p tsconfig.json",
+    "start": "npm run build && electron ./dist/main.js"
+  },
+  "repository": "https://github.com/electron/electron-quick-start-typescript",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "typescript"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "@types/lodash": "4.14.150",
+    "@types/xml2js": "0.4.5",
+    "electron": "8.2.5",
+    "tslint": "6.1.2",
+    "typescript": "3.9.2"
+  },
+  "dependencies": {
+    "lodash": "4.17.15",
+    "xml2js": "0.4.23"
+  }
+}

@@ -27,9 +27,9 @@ File will be automatically parsed and the results will be displayed on the scree
 Word file output is automatically generated in same folder XML is found and the file name will match XML file name
 
 ### Example:
-XML file location: `C:\Users\example\Desktop\ATU bom.xml`
+XML file location: `C:\Users\example\Desktop\bom.xml`
 
-Output Word file: `C:\Users\example\Desktop\ATU bom.xml.docx`
+Output Word file: `C:\Users\example\Desktop\bom.xml.docx`
 
 ## Possible Errors
 

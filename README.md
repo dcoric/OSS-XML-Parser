@@ -34,3 +34,11 @@ Output Word file: `C:\Users\example\Desktop\bom.xml.docx`
 ## Possible Errors
 
 If the XML format is not supported, the user will see the message on the screen.
+
+### Use as CLI
+
+1. Build project with `tsc` command
+1. Use code from `/tsdist` folder
+1. Run `node cli --input=/path/to/input/file --output=/destination/file.docx`
+
+Note: `--output` parameter is not required. It will automatically use input file name and append `.docx` extension.

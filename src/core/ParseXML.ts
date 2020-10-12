@@ -8,7 +8,7 @@ class ParseXML {
     private parser = new Parser();
     private elements: string[] = ['<head><script type="application/javascript">function selectText(e){var t,n,o=document.getElementById(e);window.getSelection&&document.createRange?""==(t=window.getSelection()).toString()&&window.setTimeout(function(){(n=document.createRange()).selectNodeContents(o),t.removeAllRanges(),t.addRange(n),document.execCommand("copy")},1):document.selection&&""==(t=document.selection.createRange()).text&&((n=document.body.createTextRange()).moveToElementText(o),n.select(),setTimeout(document.execCommand("copy"),10))}</script> </head></head><body id="whole-body" onclick="selectText(this.id)"><div>'];
 
-    constructor(private _xmlPath: string, private _window: Electron.BrowserWindow) {
+    constructor(private _xmlPath: string, private _window?: Electron.BrowserWindow) {
     }
 
     set xmlPath(newPath: string) {

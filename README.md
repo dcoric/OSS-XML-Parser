@@ -39,6 +39,7 @@ If the XML format is not supported, the user will see the message on the screen.
 
 1. Build project with `tsc` command
 1. Use code from `/tsdist` folder
-1. Run `node cli --input=/path/to/input/file --output=/destination/file.docx`
+1. Run `node cli.js --input="/path/to/input/file.xml" --output=/destination/file.docx`. Output parameter is optional.
+1. Run with wild card: `node cli.js --input="/path/to/input/folder/*.xml`. Output parameter will be ignored. 
 
 Note: `--output` parameter is not required. It will automatically use input file name and append `.docx` extension.

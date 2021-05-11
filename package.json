@@ -35,7 +35,7 @@
   "dependencies": {
     "@types/yargs": "15.0.8",
     "html-docx-js-typescript": "0.1.5",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "xml2js": "0.4.23",
     "yargs": "16.0.3"
   }
